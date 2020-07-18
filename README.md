@@ -1,5 +1,5 @@
 # HDRP_VideoClipPlay_Reflection_SimpleTest
-[![Image from Gyazo](https://i.gyazo.com/a5d3bb45623659369f73e4a64854de35.gif)](https://gyazo.com/a5d3bb45623659369f73e4a64854de35)  
+[![Image from Gyazo](https://i.gyazo.com/411a6442aa124d655e32ee29b9cc2f69.gif)](https://gyazo.com/411a6442aa124d655e32ee29b9cc2f69)
 Unity HDRP Video Clip Play Reflection Simple Test
 
 # Memo
