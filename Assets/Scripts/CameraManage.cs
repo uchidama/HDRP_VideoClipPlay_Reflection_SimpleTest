@@ -12,7 +12,7 @@ public class CameraManage : MonoBehaviour {
 	}
 
 	void UpdatePos (){
-		float theta = Time.time * Mathf.PI/180*5 + Mathf.PI;
+		float theta = Time.time * Mathf.PI/180*15 + Mathf.PI;
 		transform.position = new Vector3 (startPos.magnitude * Mathf.Cos (theta), startPos.y, startPos.magnitude * Mathf.Sin (theta));
 		transform.LookAt(Vector3.zero);
 	}
